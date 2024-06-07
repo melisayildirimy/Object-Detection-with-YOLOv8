@@ -1,0 +1,9 @@
+"YOLOv8N.onnx": YOLOv8N modelinin "Open Neural Network Exchange" (ONNX) formatında kaydedilmiş bir versiyonudur. 
+ONNX, derin öğrenme modellerini farklı platformlar veya derin öğrenme kütüphaneleri arasında taşınabilir hale getiren bir standarttır. 
+Bu dosya, modelin tanımlanması, mimarisi ve ağırlıklarını içerir ve farklı ortamlarda kullanılabilir.
+
+"YOLOv8N.pt": YOLOv8N modelinin PyTorch kütüphanesi kullanılarak eğitilmiş ve kaydedilmiş bir versiyonudur. 
+PyTorch, derin öğrenme modelleri için bir kütüphanedir ve .pt uzantılı dosyalar, PyTorch modellerinin kaydedilmiş halini temsil eder. 
+Bu dosya, modelin mimarisi, eğitilmiş ağırlıkları ve gerekli diğer parametreleri içerir.
+
+Not: Proje mevcut haliyle YOLOv8N.onnx dosyası üzerinden işlem yapar.
